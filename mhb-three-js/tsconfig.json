@@ -29,7 +29,8 @@
     "src/utils/motion.js",
     "src/styles/styles.ts",
     "src/components/canvas/index.js",
-    "src/components/canvas/Computers.jsx"
+    "src/components/canvas/Computers.jsx",
+    "public/assets/index.js"
   ],
   "exclude": ["node_modules"]
 }
